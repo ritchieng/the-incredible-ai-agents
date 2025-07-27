@@ -172,8 +172,3 @@ Feel free to submit pull requests to add more resources! Please ensure:
 - Include brief descriptions
 - Organize by appropriate lifecycle phase
 - Add relevant links and documentation
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
