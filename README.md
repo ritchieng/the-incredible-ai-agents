@@ -6,12 +6,10 @@ Created this to curate resources across the whole lifecycle of building, deployi
 
 ## Table of Contents
 - [Planning & Design](#planning--design)
-- [Building & Development](#building--development)
+- [Frameworks, Libraries & Development Tools](#frameworks-libraries--development-tools)
 - [Deployment & Infrastructure](#deployment--infrastructure)
 - [Evaluation & Testing](#evaluation--testing)
 - [Monitoring & Observability](#monitoring--observability)
-- [Multi-Agent Systems](#multi-agent-systems)
-- [Frameworks & Libraries](#frameworks--libraries)
 - [Specialized Agents](#specialized-agents)
   
 ## Planning & Design
@@ -21,7 +19,7 @@ Created this to curate resources across the whole lifecycle of building, deployi
 - [Tree of Thoughts](https://github.com/princeton-nlp/tree-of-thought-llm) - Deliberate problem solving with LLMs
 - [Plan-and-Solve](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting) - Zero-shot reasoning prompting
 
-## Building & Development
+## Frameworks, Libraries & Development Tools
 
 ### Core Agent Frameworks
 - [Google Agent Development Kit (ADK)](https://developers.google.com/ai/agents) - Google's toolkit for building AI agents
@@ -55,6 +53,21 @@ Created this to curate resources across the whole lifecycle of building, deployi
 - [Deer Flow](https://github.com/bytedance/deer-flow) - ByteDance's community-driven Deep Research framework
 - [Cheshire Cat AI](https://github.com/cheshire-cat-ai/core) - AI agent microservice
 - [LLMware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines
+- [Transformers Agents](https://github.com/huggingface/transformers/tree/main/src/transformers/agents) - Hugging Face agents
+- [Guidance](https://github.com/guidance-ai/guidance) - Programming framework for LLMs
+- [DSPy](https://github.com/stanfordnlp/dspy) - Programming foundation models
+- [Langflow](https://github.com/langflow-ai/langflow) - Powerful tool for building and deploying AI-powered agents and workflows
+- [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL and Agents
+- [CodeFuse ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) - Multi-Agent Framework for software development lifecycle
+- [Mesa](https://github.com/projectmesa/mesa) - Agent-based modeling framework
+- [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) - Multi-agent reinforcement learning
+- [AIWaves Agents](https://github.com/aiwaves-cn/agents) - Data-centric, self-evolving autonomous language agents
+- [AutoSwarm](https://github.com/bestmoon/AutoSwarm) - Swarm intelligence for AI agents
+
+### Development Tools & Utilities
+- [LiteLLM](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement
+- [Instructor](https://github.com/jxnl/instructor) - Structured outputs from LLMs
+- [Pydantic AI](https://github.com/pydantic/pydantic-ai) - Agent framework built on Pydantic
 
 ### Tool Integration
 - [LangChain Tools](https://github.com/langchain-ai/langchain/tree/master/libs/langchain/langchain/tools) - Pre-built tools for agents
@@ -133,31 +146,6 @@ Created this to curate resources across the whole lifecycle of building, deployi
 - [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-python) - Observability framework
 - [Jaeger](https://github.com/jaegertracing/jaeger) - Distributed tracing platform
 
-## Multi-Agent Systems
-
-### Coordination & Communication
-- [Mesa](https://github.com/projectmesa/mesa) - Agent-based modeling framework
-- [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) - Multi-agent reinforcement learning
-- [ChatDev](https://github.com/OpenBMB/ChatDev) - Communicative agents for software development
-- [AIWaves Agents](https://github.com/aiwaves-cn/agents) - Data-centric, self-evolving autonomous language agents
-- [OpenSwarm](https://github.com/openai/swarm) - Educational framework for multi-agent orchestration
-- [AutoSwarm](https://github.com/bestmoon/AutoSwarm) - Swarm intelligence for AI agents
-
-## Frameworks & Libraries
-
-### Popular Agent Frameworks
-- [Transformers Agents](https://github.com/huggingface/transformers/tree/main/src/transformers/agents) - Hugging Face agents
-- [Guidance](https://github.com/guidance-ai/guidance) - Programming framework for LLMs
-- [DSPy](https://github.com/stanfordnlp/dspy) - Programming foundation models
-- [Langflow](https://github.com/langflow-ai/langflow) - Powerful tool for building and deploying AI-powered agents and workflows
-- [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL and Agents
-- [CodeFuse ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) - Multi-Agent Framework for software development lifecycle
-
-### Utility Libraries
-- [LiteLLM](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement
-- [Instructor](https://github.com/jxnl/instructor) - Structured outputs from LLMs
-- [Pydantic AI](https://github.com/pydantic/pydantic-ai) - Agent framework built on Pydantic
-
 ## Specialized Agents
 
 ### Financial & Trading Agents
@@ -171,6 +159,8 @@ Created this to curate resources across the whole lifecycle of building, deployi
 - [FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Multi-Agent Framework for End-to-End Film Automation
 
 ### Educational & Tutorial Agents
+- [ChatDev](https://github.com/OpenBMB/ChatDev) - Communicative agents for software development
+- [OpenSwarm](https://github.com/openai/swarm) - Educational framework for multi-agent orchestration
 - [AI Agents Masterclass](https://github.com/coleam00/ai-agents-masterclass) - Follow along with AI Agents Masterclass videos
 - [Ottomator Agents](https://github.com/coleam00/ottomator-agents) - Open source AI Agents hosted on oTTomator platform
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG
