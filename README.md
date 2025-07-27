@@ -25,7 +25,6 @@ Created this to curate resources across the whole lifecycle of building, deployi
 
 ### Core Agent Frameworks
 - [Google Agent Development Kit (ADK)](https://developers.google.com/ai/agents) - Google's toolkit for building AI agents
-- [OpenAI Agents SDK](https://platform.openai.com/docs/agents) - OpenAI's official agent development framework
 - [OpenAI Agents Python](https://github.com/openai/openai-agents-python) - OpenAI's lightweight multi-agent workflow framework
 - [LangChain](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs
@@ -141,8 +140,6 @@ Created this to curate resources across the whole lifecycle of building, deployi
 - [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) - Multi-agent reinforcement learning
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Communicative agents for software development
 - [AIWaves Agents](https://github.com/aiwaves-cn/agents) - Data-centric, self-evolving autonomous language agents
-
-### Swarm Intelligence
 - [OpenSwarm](https://github.com/openai/swarm) - Educational framework for multi-agent orchestration
 - [AutoSwarm](https://github.com/bestmoon/AutoSwarm) - Swarm intelligence for AI agents
 
