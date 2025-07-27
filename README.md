@@ -12,6 +12,7 @@ Created this to curate resources across the whole lifecycle of building, deployi
 - [Monitoring & Observability](#monitoring--observability)
 - [Multi-Agent Systems](#multi-agent-systems)
 - [Frameworks & Libraries](#frameworks--libraries)
+- [Specialized Agents](#specialized-agents)
   
 ## Planning & Design
 
@@ -25,6 +26,7 @@ Created this to curate resources across the whole lifecycle of building, deployi
 ### Core Agent Frameworks
 - [Google Agent Development Kit (ADK)](https://developers.google.com/ai/agents) - Google's toolkit for building AI agents
 - [OpenAI Agents SDK](https://platform.openai.com/docs/agents) - OpenAI's official agent development framework
+- [OpenAI Agents Python](https://github.com/openai/openai-agents-python) - OpenAI's lightweight multi-agent workflow framework
 - [LangChain](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs
 - [LlamaIndex](https://github.com/run-llama/llama_index) - Data framework for LLM applications
@@ -32,6 +34,28 @@ Created this to curate resources across the whole lifecycle of building, deployi
 - [AutoGen](https://github.com/microsoft/autogen) - Multi-agent conversation framework
 - [Haystack](https://github.com/deepset-ai/haystack) - End-to-end NLP framework
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - SDK for integrating AI services
+- [Agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory
+- [Agent Zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
+- [Atomic Agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
+- [Letta (MemGPT)](https://github.com/letta-ai/letta) - Stateful agents framework with memory and reasoning
+- [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Multi-Agent Framework for natural language programming
+- [Camel AI](https://github.com/camel-ai/camel) - First and best multi-agent framework
+- [Swarms](https://github.com/kyegomez/swarms) - Enterprise-Grade Production-Ready Multi-Agent Orchestration
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi AI Agents framework
+- [PocketFlow](https://github.com/The-Pocket/PocketFlow) - 100-line LLM framework for agentic workflows
+- [Julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale
+- [BeeAI Framework](https://github.com/i-am-bee/beeai-framework) - Production-ready AI agents in Python and TypeScript
+- [AgentUniverse](https://github.com/agentuniverse-ai/agentUniverse) - LLM multi-agent framework
+- [LazyLLM](https://github.com/LazyAGI/LazyLLM) - Easiest way for building multi-agent LLM applications
+- [LLMStack](https://github.com/trypromptly/LLMStack) - No-code multi-agent framework
+- [MS-Agent](https://github.com/modelscope/ms-agent) - ModelScope agent framework
+- [Lagent](https://github.com/InternLM/lagent) - Lightweight framework for building LLM-based agents
+- [AutoAgent](https://github.com/HKUDS/AutoAgent) - Fully-automated and zero-code LLM agent framework
+- [uAgents](https://github.com/fetchai/uAgents) - Fast and lightweight framework for decentralized agents
+- [II-Agent](https://github.com/Intelligent-Internet/ii-agent) - Open-source framework to build and deploy intelligent agents
+- [Deer Flow](https://github.com/bytedance/deer-flow) - ByteDance's community-driven Deep Research framework
+- [Cheshire Cat AI](https://github.com/cheshire-cat-ai/core) - AI agent microservice
+- [LLMware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines
 
 ### Tool Integration
 - [LangChain Tools](https://github.com/langchain-ai/langchain/tree/master/libs/langchain/langchain/tools) - Pre-built tools for agents
@@ -42,6 +66,17 @@ Created this to curate resources across the whole lifecycle of building, deployi
 - [MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management
 - [LangChain Memory](https://github.com/langchain-ai/langchain/tree/master/libs/langchain/langchain/memory) - Memory components
 - [Zep](https://github.com/getzep/zep) - Long-term memory for AI assistants
+- [Mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [Graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
+
+### Voice & Realtime Agents
+- [LiveKit Agents](https://github.com/livekit/agents) - Powerful framework for building realtime voice AI agents
+
+### Browser & Web Automation
+- [Browser Use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+- [Browser Use Web UI](https://github.com/browser-use/web-ui) - Run AI Agent in your browser
+- [LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
+- [AppAgent](https://github.com/TencentQQGYLab/AppAgent) - Multimodal Agents as Smartphone Users
 
 ## Deployment & Infrastructure
 
@@ -80,6 +115,11 @@ Created this to curate resources across the whole lifecycle of building, deployi
 
 ## Monitoring & Observability
 
+### Agent Observability & Monitoring
+- [RagaAI Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) - Agent AI Observability, Monitoring and Evaluation Framework
+- [OpenLit](https://github.com/openlit/openlit) - OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations
+- [HolmesGPT](https://github.com/robusta-dev/holmesgpt) - 24/7 On-Call AI Agent for alerts and investigations
+
 ### LLM Observability
 - [LangFuse](https://github.com/langfuse/langfuse) - Open source LLM engineering platform
 - [Phoenix](https://github.com/Arize-ai/phoenix) - ML observability in a notebook
@@ -100,6 +140,7 @@ Created this to curate resources across the whole lifecycle of building, deployi
 - [Mesa](https://github.com/projectmesa/mesa) - Agent-based modeling framework
 - [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) - Multi-agent reinforcement learning
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Communicative agents for software development
+- [AIWaves Agents](https://github.com/aiwaves-cn/agents) - Data-centric, self-evolving autonomous language agents
 
 ### Swarm Intelligence
 - [OpenSwarm](https://github.com/openai/swarm) - Educational framework for multi-agent orchestration
@@ -111,11 +152,31 @@ Created this to curate resources across the whole lifecycle of building, deployi
 - [Transformers Agents](https://github.com/huggingface/transformers/tree/main/src/transformers/agents) - Hugging Face agents
 - [Guidance](https://github.com/guidance-ai/guidance) - Programming framework for LLMs
 - [DSPy](https://github.com/stanfordnlp/dspy) - Programming foundation models
+- [Langflow](https://github.com/langflow-ai/langflow) - Powerful tool for building and deploying AI-powered agents and workflows
+- [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL and Agents
+- [CodeFuse ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) - Multi-Agent Framework for software development lifecycle
 
 ### Utility Libraries
 - [LiteLLM](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement
 - [Instructor](https://github.com/jxnl/instructor) - Structured outputs from LLMs
 - [Pydantic AI](https://github.com/pydantic/pydantic-ai) - Agent framework built on Pydantic
+
+## Specialized Agents
+
+### Financial & Trading Agents
+- [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework
+
+### Research & Analysis Agents
+- [Company Research Agent](https://github.com/guy-hartstein/company-research-agent) - Multi-agent company research tool powered by LangGraph
+- [Airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app
+
+### Creative & Media Agents
+- [FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Multi-Agent Framework for End-to-End Film Automation
+
+### Educational & Tutorial Agents
+- [AI Agents Masterclass](https://github.com/coleam00/ai-agents-masterclass) - Follow along with AI Agents Masterclass videos
+- [Ottomator Agents](https://github.com/coleam00/ottomator-agents) - Open source AI Agents hosted on oTTomator platform
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG
 
 ## Contributing
 
