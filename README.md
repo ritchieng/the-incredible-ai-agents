@@ -63,6 +63,15 @@ Created this to curate resources across the whole lifecycle of building, deployi
 - [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) - Multi-agent reinforcement learning
 - [AIWaves Agents](https://github.com/aiwaves-cn/agents) - Data-centric, self-evolving autonomous language agents
 - [AutoSwarm](https://github.com/bestmoon/AutoSwarm) - Swarm intelligence for AI agents
+- [AWS Agent Squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+- [BotSharp](https://github.com/SciSharp/BotSharp) - AI Multi-Agent Framework in .NET
+- [Langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
+- [Rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
+- [Sage](https://github.com/ZHangZHengEric/Sage) - Multi-Agent System Framework For Complex Tasks
+- [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba) - Agentic AI Framework for Java Developers
+- [TEN Framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents
+- [Upsonic](https://github.com/Upsonic/Upsonic) - The most reliable AI agent framework that supports MCP
+- [VoltAgent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework
 
 ### Development Tools & Utilities
 - [LiteLLM](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement
@@ -85,10 +94,13 @@ Created this to curate resources across the whole lifecycle of building, deployi
 - [LiveKit Agents](https://github.com/livekit/agents) - Powerful framework for building realtime voice AI agents
 
 ### Browser & Web Automation
+- [AppAgent](https://github.com/TencentQQGYLab/AppAgent) - Multimodal Agents as Smartphone Users
 - [Browser Use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [Browser Use Web UI](https://github.com/browser-use/web-ui) - Run AI Agent in your browser
 - [LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
-- [AppAgent](https://github.com/TencentQQGYLab/AppAgent) - Multimodal Agents as Smartphone Users
+- [Magnitude](https://github.com/magnitudedev/magnitude) - Open-source, vision-first browser agent
+- [NanoBrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation
+- [Notte](https://github.com/nottelabs/notte) - Reliable browser using agents
 
 ## Deployment & Infrastructure
 
@@ -152,18 +164,22 @@ Created this to curate resources across the whole lifecycle of building, deployi
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework
 
 ### Research & Analysis Agents
-- [Company Research Agent](https://github.com/guy-hartstein/company-research-agent) - Multi-agent company research tool powered by LangGraph
 - [Airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app
+- [Company Research Agent](https://github.com/guy-hartstein/company-research-agent) - Multi-agent company research tool powered by LangGraph
+- [MindSearch](https://github.com/InternLM/MindSearch) - LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 
 ### Creative & Media Agents
 - [FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Multi-Agent Framework for End-to-End Film Automation
 
 ### Educational & Tutorial Agents
-- [ChatDev](https://github.com/OpenBMB/ChatDev) - Communicative agents for software development
-- [OpenSwarm](https://github.com/openai/swarm) - Educational framework for multi-agent orchestration
+- [AgentVerse](https://github.com/OpenBMB/AgentVerse) - Designed to facilitate the deployment of multiple LLM-based agents in various applications
 - [AI Agents Masterclass](https://github.com/coleam00/ai-agents-masterclass) - Follow along with AI Agents Masterclass videos
-- [Ottomator Agents](https://github.com/coleam00/ottomator-agents) - Open source AI Agents hosted on oTTomator platform
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG
+- [ChatDev](https://github.com/OpenBMB/ChatDev) - Communicative agents for software development
+- [GPTeam](https://github.com/101dotxyz/GPTeam) - Open-source multi-agent simulation
+- [OpenSwarm](https://github.com/openai/swarm) - Educational framework for multi-agent orchestration
+- [Ottomator Agents](https://github.com/coleam00/ottomator-agents) - Open source AI Agents hosted on oTTomator platform
+- [SWE Agent](https://github.com/langtalks/swe-agent) - AI-powered software engineering multi-agent system with researcher and developer agents
 
 ## Contributing
 
